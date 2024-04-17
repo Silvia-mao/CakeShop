@@ -36,6 +36,6 @@ window.onscroll = function() {
 
 function registerSuccess() {
     alert('註冊成功');
-    window.location.href = '../index.html'; 
+    window.location.href = 'index.html'; 
     // 將此處的 URL 替換為你想要跳轉的頁面
 }
